@@ -1,6 +1,8 @@
 # ECE-763-Generative-Modelling-Face-Detection
 
+This project deals with modelling complex density distribution functions for Face Detection.
 
+Files in CODE/ directory
 1. dummy_g.py - gaussian model
 2. dummy_gmm.py - gaussian mixture model
 3. dummy_t.py - t distribution model
